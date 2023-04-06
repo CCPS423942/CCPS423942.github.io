@@ -2,7 +2,7 @@ body {
   background-color: #fff7e0;
 }
 
-border {
+.border {
   color: gold;
   border-size: 10px;
 }
@@ -16,5 +16,6 @@ h1 {
 }
 
 footer {
+  
 }
 
