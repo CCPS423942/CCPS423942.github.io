@@ -2,6 +2,11 @@ body {
   background-color: #fff7e0;
 }
 
+border {
+  color: gold;
+  border-size: 10px;
+}
+
 p {
   
 }
